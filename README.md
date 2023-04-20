@@ -16,7 +16,18 @@
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=amazon-aws)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazon-dynamodb)
+![Redshift](https://img.shields.io/badge/-Redshift-333333?style=flat&logo=amazon-redshift)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+![AngularJS](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=angularjs)
+![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
+![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -25,8 +36,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
 
 ### 📈 GitHub Stats:
 
