@@ -44,7 +44,7 @@
 
 ### 📈 GitHub Stats:
 
-![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinashrathod0306&show_icons=true&theme=radical)
+![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avnsh1111&show_icons=true&theme=radical)
 
 <!---
 avinashrathod0306/avinashrathod0306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
