@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Avinash Rathod!
+## 👋 Hi there, I'm Avinash Rathod! <img src="https://komarev.com/ghpvc/?username=avnsh1111&label=Profile%20views&color=0e75b6&style=flat" alt="avnsh1111" />
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
@@ -6,6 +6,15 @@
 </p>
 
 👨‍💻 I'm a highly motivated and dedicated developer, open-source contributor, and a never-ending learner with a strong passion for cutting-edge technologies and innovative solutions. I thoroughly enjoy collaborating with others to create outstanding products and contribute to the tech community.
+
+### 📈 My GitHub Stats:
+<p align="left">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avnsh1111&theme=radical" alt="Avinash's GitHub Streak" height="180"/>  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Avnsh1111&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Avinash's GitHub stats" height="180"/>
+  
+   <br>
+</p>
 
 ### 🚀 Get to Know Me:
 
@@ -21,6 +30,7 @@
 - 💼 Connect with me on LinkedIn: [avnshrathod](https://linkedin.com/in/avnshrathod)
 - 📚 Read my articles on Medium: [avnshrathod](https://medium.com/@avnshrathod)
 - 📸 Follow me on Instagram: [avnshrathod](https://instagram.com/avnshrathod)
+
 
 
 ### 🔧 Technologies & Tools I Work With:
@@ -138,18 +148,7 @@
   </tr>
 </table>
 
-### 📈 My GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avnsh1111&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Avinash's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avnsh1111&layout=compact&theme=radical" alt="Avinash's Top Languages" height="180"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avnsh1111&theme=radical" alt="Avinash's GitHub Streak" height="180"/>
-</p>
-
-<!---
-avinashrathod0306/avinashrathod0306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📈 Trophies
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=avnsh1111&theme=matrix" alt="avnsh1111" /></a> </p>
