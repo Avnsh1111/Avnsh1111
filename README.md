@@ -1,6 +1,13 @@
 ## 👋 Hi there, I'm Avinash Rathod!
 
-👨‍💻 I'm a passionate developer, open-source contributor, and life-long learner with a strong interest in cutting-edge technologies and innovative solutions. I love collaborating with others to build great products and contribute to the tech community.
+👨‍💻 I'm a highly motivated and dedicated developer, open-source contributor, and a never-ending learner with a strong passion for cutting-edge technologies and innovative solutions. I thoroughly enjoy collaborating with others to create outstanding products and contribute to the tech community.
+
+### 🚀 Get to Know Me:
+
+- 🔭 I’m currently working on diverse web development projects and refining my skills in various technologies.
+- 🌱 I’m constantly learning new technologies and frameworks to stay up-to-date with the latest trends.
+- 🎯 My goal is to make a meaningful impact in the tech world and help others achieve their dreams.
+- ⚡ Fun fact: I love photography, traveling, and exploring the world of food.
 
 ### 🌐 Find me around the web:
 
