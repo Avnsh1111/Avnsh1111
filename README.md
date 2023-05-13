@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Avinash Rathod! <img src="https://komarev.com/ghpvc/?username=avnsh1111&label=Profile%20views&color=0e75b6&style=flat" alt="avnsh1111" />
+## 👋 Hi there, I'm Avinash Rathod! <p align="right"><img  style="position: absolute;top: 88px;right: 270px;" src="https://komarev.com/ghpvc/?username=avnsh1111&label=Profile%20views&color=0e75b6&style=flat" alt="avnsh1111" /></p>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
