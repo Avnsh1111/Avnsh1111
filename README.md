@@ -7,14 +7,7 @@
 
 👨‍💻 I'm a highly motivated and dedicated developer, open-source contributor, and a never-ending learner with a strong passion for cutting-edge technologies and innovative solutions. I thoroughly enjoy collaborating with others to create outstanding products and contribute to the tech community.
 
-### 📈 My GitHub Stats:
-<p align="left">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avnsh1111&theme=radical" alt="Avinash's GitHub Streak" height="180"/>  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Avnsh1111&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Avinash's GitHub stats" height="180"/>
-  
-   <br>
-</p>
+
 
 ### 🚀 Get to Know Me:
 
@@ -148,6 +141,11 @@
   </tr>
 </table>
 
+### 📈 My GitHub Stats:
+<p align="left">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avnsh1111&theme=radical" alt="Avinash's GitHub Streak" height="180"/>
+</p>
 
 
 ### 📈 Trophies
