@@ -133,10 +133,16 @@
   </tr>
 </table>
 
+### 📈 My GitHub Stats:
 
-### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avnsh1111&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Avinash's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avnsh1111&layout=compact&theme=radical" alt="Avinash's Top Languages" height="180"/>
+</p>
 
-![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avnsh1111&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avnsh1111&theme=radical" alt="Avinash's GitHub Streak" height="180"/>
+</p>
 
 <!---
 avinashrathod0306/avinashrathod0306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
