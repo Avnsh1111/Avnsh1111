@@ -7,7 +7,9 @@
 
 👨‍💻 I'm a highly motivated and dedicated developer, open-source contributor, and a never-ending learner with a strong passion for cutting-edge technologies and innovative solutions. I thoroughly enjoy collaborating with others to create outstanding products and contribute to the tech community.
 
-
+<br>
+<a href="https://www.buymeacoffee.com/avnsh1111" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<br>
 
 ### 🚀 Get to Know Me:
 
@@ -150,3 +152,4 @@
 
 ### 📈 Trophies
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=avnsh1111&theme=matrix" alt="avnsh1111" /></a> </p>
+
